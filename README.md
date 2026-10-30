@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Daily Banking Spend Analyzer
 
 ## Problem
@@ -41,3 +42,7 @@ Optional terminal check: `python src/run_pipeline.py`
 - Synthetic data; keyword rules miss unseen merchants (next: text classifier).
 - Only 12 months of history; no seasonality (next: seasonal models).
 - No authentication or real bank integration.
+=======
+# hackathon-hcltech
+
+>>>>>>> 9797c27a7d32f8f25e2401100594cb720b7f5648
